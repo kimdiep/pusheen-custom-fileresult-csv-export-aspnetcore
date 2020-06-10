@@ -4,6 +4,6 @@ This is a demo for my blog posts on creating a custom FileResult to Export Data 
 
 ## Blog Posts Related to This Repo
 
-https://kimdiep.github.io/kimdiep-gatsby-blog/posts/repository-asp-net-core-mvc/
-https://kimdiep.github.io/kimdiep-gatsby-blog/posts/unit-test-custom-csvresult-fileresult-dotnetcore-mvc/
-https://kimdiep.github.io/kimdiep-gatsby-blog/posts/custom-csvresult-fileresult-dotnetcore-mvc/
+- https://kimdiep.github.io/kimdiep-gatsby-blog/posts/repository-asp-net-core-mvc/
+- https://kimdiep.github.io/kimdiep-gatsby-blog/posts/unit-test-custom-csvresult-fileresult-dotnetcore-mvc/
+- https://kimdiep.github.io/kimdiep-gatsby-blog/posts/custom-csvresult-fileresult-dotnetcore-mvc/
